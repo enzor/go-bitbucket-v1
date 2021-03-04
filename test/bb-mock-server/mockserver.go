@@ -12,7 +12,7 @@ package main
 import (
 	"log"
 
-	sw "github.com/gfleury/go-bitbucket-v1/test/bb-mock-server/go"
+	sw "github.com/enzor/go-bitbucket-v1/test/bb-mock-server/go"
 )
 
 func main() {
